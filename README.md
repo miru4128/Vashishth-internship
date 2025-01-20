@@ -1,4 +1,3 @@
-# Vashishth-internship
 # Student Attendance Tracker
 
 ## Project Overview
